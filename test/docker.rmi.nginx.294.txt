@@ -1,0 +1,6 @@
+Error response from daemon: No such image: nginx
+Error: failed to remove images: [nginx]
+
+real	0m0.031s
+user	0m0.020s
+sys	0m0.008s

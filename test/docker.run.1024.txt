@@ -1,0 +1,5 @@
+Error response from daemon: Cannot start container fe8b2955bdfd38cb655ec63898f8c80453cc54daaf0eee0db988168a04ad8b14: adding interface veth27a96d3 to bridge docker0 failed: exchange full
+
+real	0m0.997s
+user	0m0.028s
+sys	0m0.004s
