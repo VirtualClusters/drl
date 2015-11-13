@@ -1,0 +1,6 @@
+Error response from daemon: Container some-nginx-906 not found
+Error: failed to remove containers: [some-nginx-906]
+
+real	0m0.055s
+user	0m0.020s
+sys	0m0.012s

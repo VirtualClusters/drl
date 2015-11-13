@@ -1,0 +1,6 @@
+Error response from daemon: Container some-nginx-776 not found
+Error: failed to remove containers: [some-nginx-776]
+
+real	0m0.039s
+user	0m0.028s
+sys	0m0.004s

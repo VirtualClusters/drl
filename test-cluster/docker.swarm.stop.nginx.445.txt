@@ -1,0 +1,6 @@
+Error response from daemon: No such container: some-nginx-445
+Error: failed to stop containers: [some-nginx-445]
+
+real	0m0.066s
+user	0m0.016s
+sys	0m0.016s

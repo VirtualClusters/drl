@@ -1,0 +1,6 @@
+Error response from daemon: No such container: some-nginx-471
+Error: failed to stop containers: [some-nginx-471]
+
+real	0m0.043s
+user	0m0.028s
+sys	0m0.008s

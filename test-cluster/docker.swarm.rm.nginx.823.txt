@@ -1,0 +1,6 @@
+Error response from daemon: Container some-nginx-823 not found
+Error: failed to remove containers: [some-nginx-823]
+
+real	0m0.063s
+user	0m0.028s
+sys	0m0.024s

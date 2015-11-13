@@ -1,0 +1,6 @@
+Error response from daemon: No such container: some-nginx-559
+Error: failed to stop containers: [some-nginx-559]
+
+real	0m0.046s
+user	0m0.036s
+sys	0m0.000s

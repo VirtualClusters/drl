@@ -1,0 +1,6 @@
+Error response from daemon: No such container: some-nginx-385
+Error: failed to stop containers: [some-nginx-385]
+
+real	0m0.050s
+user	0m0.032s
+sys	0m0.004s

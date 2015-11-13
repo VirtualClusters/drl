@@ -1,0 +1,5 @@
+error: database or disk is full
+
+real	0m0.453s
+user	0m0.052s
+sys	0m0.012s

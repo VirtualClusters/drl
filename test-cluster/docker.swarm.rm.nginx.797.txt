@@ -1,0 +1,6 @@
+Error response from daemon: Container some-nginx-797 not found
+Error: failed to remove containers: [some-nginx-797]
+
+real	0m0.042s
+user	0m0.036s
+sys	0m0.000s

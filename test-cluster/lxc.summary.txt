@@ -1,0 +1,443 @@
+jupiter158
+RUNNING: 0
+STOPPED: 0
+jupiter159
+RUNNING: 40
+STOPPED: 0
++------+-------+------+------+-----------+-----------+
+| NAME | STATE | IPV4 | IPV6 | EPHEMERAL | SNAPSHOTS |
++------+-------+------+------+-----------+-----------+
++------+-------+------+------+-----------+-----------+
+jupiter158
+RUNNING: 0
+STOPPED: 0
++------+---------+------------+------+-----------+-----------+
+| NAME |  STATE  |    IPV4    | IPV6 | EPHEMERAL | SNAPSHOTS |
++------+---------+------------+------+-----------+-----------+
+| d1   | RUNNING | 10.0.4.216 |      | NO        | 0         |
+| d10  | RUNNING | 10.0.4.143 |      | NO        | 0         |
+| d11  | RUNNING | 10.0.4.243 |      | NO        | 0         |
+| d12  | RUNNING | 10.0.4.101 |      | NO        | 0         |
+| d13  | RUNNING | 10.0.4.211 |      | NO        | 0         |
+| d14  | RUNNING | 10.0.4.33  |      | NO        | 0         |
+| d15  | RUNNING | 10.0.4.161 |      | NO        | 0         |
+| d16  | RUNNING | 10.0.4.229 |      | NO        | 0         |
+| d17  | RUNNING | 10.0.4.225 |      | NO        | 0         |
+| d18  | RUNNING | 10.0.4.14  |      | NO        | 0         |
+| d19  | RUNNING | 10.0.4.15  |      | NO        | 0         |
+| d2   | RUNNING | 10.0.4.46  |      | NO        | 0         |
+| d20  | RUNNING | 10.0.4.226 |      | NO        | 0         |
+| d21  | RUNNING | 10.0.4.249 |      | NO        | 0         |
+| d22  | RUNNING | 10.0.4.96  |      | NO        | 0         |
+| d23  | RUNNING | 10.0.4.213 |      | NO        | 0         |
+| d24  | RUNNING | 10.0.4.134 |      | NO        | 0         |
+| d25  | RUNNING | 10.0.4.248 |      | NO        | 0         |
+| d26  | RUNNING | 10.0.4.16  |      | NO        | 0         |
+| d27  | RUNNING | 10.0.4.17  |      | NO        | 0         |
+| d28  | RUNNING | 10.0.4.109 |      | NO        | 0         |
+| d29  | RUNNING | 10.0.4.241 |      | NO        | 0         |
+| d3   | RUNNING | 10.0.4.47  |      | NO        | 0         |
+| d30  | RUNNING | 10.0.4.130 |      | NO        | 0         |
+| d31  | RUNNING | 10.0.4.166 |      | NO        | 0         |
+| d32  | RUNNING | 10.0.4.178 |      | NO        | 0         |
+| d33  | RUNNING | 10.0.4.168 |      | NO        | 0         |
+| d34  | RUNNING | 10.0.4.18  |      | NO        | 0         |
+| d35  | RUNNING | 10.0.4.126 |      | NO        | 0         |
+| d36  | RUNNING | 10.0.4.146 |      | NO        | 0         |
+| d37  | RUNNING | 10.0.4.227 |      | NO        | 0         |
+| d38  | RUNNING | 10.0.4.234 |      | NO        | 0         |
+| d39  | RUNNING | 10.0.4.145 |      | NO        | 0         |
+| d4   | RUNNING | 10.0.4.237 |      | NO        | 0         |
+| d40  | RUNNING | 10.0.4.215 |      | NO        | 0         |
+| d5   | RUNNING | 10.0.4.34  |      | NO        | 0         |
+| d6   | RUNNING | 10.0.4.246 |      | NO        | 0         |
+| d7   | RUNNING | 10.0.4.50  |      | NO        | 0         |
+| d8   | RUNNING | 10.0.4.210 |      | NO        | 0         |
+| d9   | RUNNING | 10.0.4.194 |      | NO        | 0         |
++------+---------+------------+------+-----------+-----------+
+jupiter159
+RUNNING: 40
+STOPPED: 0
++------+---------+------------+------+-----------+-----------+
+| NAME |  STATE  |    IPV4    | IPV6 | EPHEMERAL | SNAPSHOTS |
++------+---------+------------+------+-----------+-----------+
+| d1   | RUNNING | 10.0.4.174 |      | NO        | 0         |
+| d10  | RUNNING | 10.0.4.193 |      | NO        | 0         |
+| d11  | RUNNING | 10.0.4.83  |      | NO        | 0         |
+| d12  | RUNNING | 10.0.4.253 |      | NO        | 0         |
+| d13  | RUNNING | 10.0.4.146 |      | NO        | 0         |
+| d14  | RUNNING | 10.0.4.113 |      | NO        | 0         |
+| d15  | RUNNING | 10.0.4.129 |      | NO        | 0         |
+| d16  | RUNNING | 10.0.4.16  |      | NO        | 0         |
+| d17  | RUNNING | 10.0.4.50  |      | NO        | 0         |
+| d18  | RUNNING | 10.0.4.254 |      | NO        | 0         |
+| d19  | RUNNING | 10.0.4.40  |      | NO        | 0         |
+| d2   | RUNNING | 10.0.4.32  |      | NO        | 0         |
+| d20  | RUNNING | 10.0.4.7   |      | NO        | 0         |
+| d21  | RUNNING | 10.0.4.79  |      | NO        | 0         |
+| d22  | RUNNING | 10.0.4.81  |      | NO        | 0         |
+| d23  | RUNNING | 10.0.4.97  |      | NO        | 0         |
+| d24  | RUNNING | 10.0.4.246 |      | NO        | 0         |
+| d25  | RUNNING | 10.0.4.100 |      | NO        | 0         |
+| d26  | RUNNING | 10.0.4.164 |      | NO        | 0         |
+| d27  | RUNNING | 10.0.4.169 |      | NO        | 0         |
+| d28  | RUNNING | 10.0.4.217 |      | NO        | 0         |
+| d29  | RUNNING | 10.0.4.248 |      | NO        | 0         |
+| d3   | RUNNING | 10.0.4.22  |      | NO        | 0         |
+| d30  | RUNNING | 10.0.4.228 |      | NO        | 0         |
+| d31  | RUNNING | 10.0.4.250 |      | NO        | 0         |
+| d32  | RUNNING | 10.0.4.111 |      | NO        | 0         |
+| d33  | RUNNING | 10.0.4.19  |      | NO        | 0         |
+| d34  | RUNNING | 10.0.4.197 |      | NO        | 0         |
+| d35  | RUNNING | 10.0.4.249 |      | NO        | 0         |
+| d36  | RUNNING | 10.0.4.21  |      | NO        | 0         |
+| d37  | RUNNING | 10.0.4.195 |      | NO        | 0         |
+| d38  | RUNNING | 10.0.4.122 |      | NO        | 0         |
+| d39  | RUNNING | 10.0.4.175 |      | NO        | 0         |
+| d4   | RUNNING | 10.0.4.145 |      | NO        | 0         |
+| d40  | RUNNING | 10.0.4.207 |      | NO        | 0         |
+| d43  | RUNNING | 10.0.4.165 |      | NO        | 0         |
+| d5   | RUNNING | 10.0.4.173 |      | NO        | 0         |
+| d6   | RUNNING | 10.0.4.98  |      | NO        | 0         |
+| d7   | RUNNING | 10.0.4.123 |      | NO        | 0         |
+| d8   | RUNNING | 10.0.4.214 |      | NO        | 0         |
+| d9   | RUNNING | 10.0.4.194 |      | NO        | 0         |
++------+---------+------------+------+-----------+-----------+
+jupiter160
+RUNNING: 41
+STOPPED: 0
++------+---------+------------+------+-----------+-----------+
+| NAME |  STATE  |    IPV4    | IPV6 | EPHEMERAL | SNAPSHOTS |
++------+---------+------------+------+-----------+-----------+
+| d1   | RUNNING | 10.0.4.166 |      | NO        | 0         |
+| d10  | RUNNING | 10.0.4.193 |      | NO        | 0         |
+| d11  | RUNNING | 10.0.4.116 |      | NO        | 0         |
+| d12  | RUNNING | 10.0.4.34  |      | NO        | 0         |
+| d13  | RUNNING | 10.0.4.118 |      | NO        | 0         |
+| d14  | RUNNING | 10.0.4.252 |      | NO        | 0         |
+| d15  | RUNNING | 10.0.4.112 |      | NO        | 0         |
+| d16  | RUNNING | 10.0.4.81  |      | NO        | 0         |
+| d17  | RUNNING | 10.0.4.244 |      | NO        | 0         |
+| d18  | RUNNING | 10.0.4.133 |      | NO        | 0         |
+| d19  | RUNNING | 10.0.4.254 |      | NO        | 0         |
+| d2   | RUNNING | 10.0.4.224 |      | NO        | 0         |
+| d20  | RUNNING | 10.0.4.18  |      | NO        | 0         |
+| d21  | RUNNING | 10.0.4.126 |      | NO        | 0         |
+| d22  | RUNNING | 10.0.4.117 |      | NO        | 0         |
+| d23  | RUNNING | 10.0.4.80  |      | NO        | 0         |
+| d24  | RUNNING | 10.0.4.214 |      | NO        | 0         |
+| d25  | RUNNING | 10.0.4.210 |      | NO        | 0         |
+| d26  | RUNNING | 10.0.4.182 |      | NO        | 0         |
+| d27  | RUNNING | 10.0.4.47  |      | NO        | 0         |
+| d28  | RUNNING | 10.0.4.250 |      | NO        | 0         |
+| d29  | RUNNING | 10.0.4.109 |      | NO        | 0         |
+| d3   | RUNNING | 10.0.4.103 |      | NO        | 0         |
+| d30  | RUNNING | 10.0.4.248 |      | NO        | 0         |
+| d31  | RUNNING | 10.0.4.104 |      | NO        | 0         |
+| d32  | RUNNING | 10.0.4.106 |      | NO        | 0         |
+| d33  | RUNNING | 10.0.4.155 |      | NO        | 0         |
+| d34  | RUNNING | 10.0.4.67  |      | NO        | 0         |
+| d35  | RUNNING | 10.0.4.72  |      | NO        | 0         |
+| d36  | RUNNING | 10.0.4.64  |      | NO        | 0         |
+| d37  | RUNNING | 10.0.4.107 |      | NO        | 0         |
+| d38  | RUNNING | 10.0.4.226 |      | NO        | 0         |
+| d39  | RUNNING | 10.0.4.215 |      | NO        | 0         |
+| d4   | RUNNING | 10.0.4.184 |      | NO        | 0         |
+| d40  | RUNNING | 10.0.4.233 |      | NO        | 0         |
+| d44  | RUNNING | 10.0.4.111 |      | NO        | 0         |
+| d5   | RUNNING | 10.0.4.218 |      | NO        | 0         |
+| d6   | RUNNING | 10.0.4.49  |      | NO        | 0         |
+| d7   | RUNNING | 10.0.4.50  |      | NO        | 0         |
+| d8   | RUNNING | 10.0.4.179 |      | NO        | 0         |
+| d9   | RUNNING | 10.0.4.249 |      | NO        | 0         |
++------+---------+------------+------+-----------+-----------+
+jupiter161
+RUNNING: 41
+STOPPED: 0
++------+---------+------------+------+-----------+-----------+
+| NAME |  STATE  |    IPV4    | IPV6 | EPHEMERAL | SNAPSHOTS |
++------+---------+------------+------+-----------+-----------+
+| d1   | RUNNING | 10.0.4.214 |      | NO        | 0         |
+| d10  | RUNNING | 10.0.4.19  |      | NO        | 0         |
+| d11  | RUNNING | 10.0.4.10  |      | NO        | 0         |
+| d12  | RUNNING | 10.0.4.144 |      | NO        | 0         |
+| d13  | RUNNING | 10.0.4.152 |      | NO        | 0         |
+| d14  | RUNNING | 10.0.4.3   |      | NO        | 0         |
+| d15  | RUNNING | 10.0.4.77  |      | NO        | 0         |
+| d16  | RUNNING | 10.0.4.11  |      | NO        | 0         |
+| d17  | RUNNING | 10.0.4.175 |      | NO        | 0         |
+| d18  | RUNNING | 10.0.4.96  |      | NO        | 0         |
+| d19  | RUNNING | 10.0.4.99  |      | NO        | 0         |
+| d2   | RUNNING | 10.0.4.206 |      | NO        | 0         |
+| d20  | RUNNING | 10.0.4.21  |      | NO        | 0         |
+| d21  | RUNNING | 10.0.4.133 |      | NO        | 0         |
+| d22  | RUNNING | 10.0.4.25  |      | NO        | 0         |
+| d23  | RUNNING | 10.0.4.56  |      | NO        | 0         |
+| d24  | RUNNING | 10.0.4.81  |      | NO        | 0         |
+| d25  | RUNNING | 10.0.4.224 |      | NO        | 0         |
+| d26  | RUNNING | 10.0.4.34  |      | NO        | 0         |
+| d27  | RUNNING | 10.0.4.57  |      | NO        | 0         |
+| d28  | RUNNING | 10.0.4.26  |      | NO        | 0         |
+| d29  | RUNNING | 10.0.4.138 |      | NO        | 0         |
+| d3   | RUNNING | 10.0.4.17  |      | NO        | 0         |
+| d30  | RUNNING | 10.0.4.61  |      | NO        | 0         |
+| d31  | RUNNING | 10.0.4.9   |      | NO        | 0         |
+| d32  | RUNNING | 10.0.4.192 |      | NO        | 0         |
+| d33  | RUNNING | 10.0.4.110 |      | NO        | 0         |
+| d34  | RUNNING | 10.0.4.140 |      | NO        | 0         |
+| d35  | RUNNING | 10.0.4.204 |      | NO        | 0         |
+| d36  | RUNNING | 10.0.4.242 |      | NO        | 0         |
+| d37  | RUNNING | 10.0.4.64  |      | NO        | 0         |
+| d38  | RUNNING | 10.0.4.50  |      | NO        | 0         |
+| d39  | RUNNING | 10.0.4.106 |      | NO        | 0         |
+| d4   | RUNNING | 10.0.4.177 |      | NO        | 0         |
+| d40  | RUNNING | 10.0.4.93  |      | NO        | 0         |
+| d45  | RUNNING | 10.0.4.171 |      | NO        | 0         |
+| d5   | RUNNING | 10.0.4.35  |      | NO        | 0         |
+| d6   | RUNNING | 10.0.4.63  |      | NO        | 0         |
+| d7   | RUNNING | 10.0.4.87  |      | NO        | 0         |
+| d8   | RUNNING | 10.0.4.120 |      | NO        | 0         |
+| d9   | RUNNING | 10.0.4.18  |      | NO        | 0         |
++------+---------+------------+------+-----------+-----------+
+jupiter162
+RUNNING: 41
+STOPPED: 0
++------+---------+------------+------+-----------+-----------+
+| NAME |  STATE  |    IPV4    | IPV6 | EPHEMERAL | SNAPSHOTS |
++------+---------+------------+------+-----------+-----------+
+| d1   | RUNNING | 10.0.4.98  |      | NO        | 0         |
+| d10  | RUNNING | 10.0.4.78  |      | NO        | 0         |
+| d11  | RUNNING | 10.0.4.94  |      | NO        | 0         |
+| d12  | RUNNING | 10.0.4.196 |      | NO        | 0         |
+| d13  | RUNNING | 10.0.4.92  |      | NO        | 0         |
+| d14  | RUNNING | 10.0.4.205 |      | NO        | 0         |
+| d15  | RUNNING | 10.0.4.201 |      | NO        | 0         |
+| d16  | RUNNING | 10.0.4.95  |      | NO        | 0         |
+| d17  | RUNNING | 10.0.4.24  |      | NO        | 0         |
+| d18  | RUNNING | 10.0.4.14  |      | NO        | 0         |
+| d19  | RUNNING | 10.0.4.27  |      | NO        | 0         |
+| d2   | RUNNING | 10.0.4.128 |      | NO        | 0         |
+| d20  | RUNNING | 10.0.4.31  |      | NO        | 0         |
+| d21  | RUNNING | 10.0.4.100 |      | NO        | 0         |
+| d22  | RUNNING | 10.0.4.116 |      | NO        | 0         |
+| d23  | RUNNING | 10.0.4.161 |      | NO        | 0         |
+| d24  | RUNNING | 10.0.4.185 |      | NO        | 0         |
+| d25  | RUNNING | 10.0.4.33  |      | NO        | 0         |
+| d26  | RUNNING | 10.0.4.57  |      | NO        | 0         |
+| d27  | RUNNING | 10.0.4.111 |      | NO        | 0         |
+| d28  | RUNNING | 10.0.4.183 |      | NO        | 0         |
+| d29  | RUNNING | 10.0.4.143 |      | NO        | 0         |
+| d3   | RUNNING | 10.0.4.77  |      | NO        | 0         |
+| d30  | RUNNING | 10.0.4.79  |      | NO        | 0         |
+| d31  | RUNNING | 10.0.4.249 |      | NO        | 0         |
+| d32  | RUNNING | 10.0.4.89  |      | NO        | 0         |
+| d33  | RUNNING | 10.0.4.172 |      | NO        | 0         |
+| d34  | RUNNING | 10.0.4.135 |      | NO        | 0         |
+| d35  | RUNNING | 10.0.4.91  |      | NO        | 0         |
+| d36  | RUNNING | 10.0.4.2   |      | NO        | 0         |
+| d37  | RUNNING | 10.0.4.55  |      | NO        | 0         |
+| d38  | RUNNING | 10.0.4.96  |      | NO        | 0         |
+| d39  | RUNNING | 10.0.4.80  |      | NO        | 0         |
+| d4   | RUNNING | 10.0.4.42  |      | NO        | 0         |
+| d40  | RUNNING | 10.0.4.29  |      | NO        | 0         |
+| d5   | RUNNING | 10.0.4.239 |      | NO        | 0         |
+| d52  | STOPPED |            |      | NO        | 0         |
+| d6   | RUNNING | 10.0.4.209 |      | NO        | 0         |
+| d7   | RUNNING | 10.0.4.43  |      | NO        | 0         |
+| d8   | RUNNING | 10.0.4.32  |      | NO        | 0         |
+| d9   | RUNNING | 10.0.4.240 |      | NO        | 0         |
++------+---------+------------+------+-----------+-----------+
+jupiter163
+RUNNING: 40
+STOPPED: 1
++------+---------+------------+------+-----------+-----------+
+| NAME |  STATE  |    IPV4    | IPV6 | EPHEMERAL | SNAPSHOTS |
++------+---------+------------+------+-----------+-----------+
+| d1   | RUNNING | 10.0.4.247 |      | NO        | 0         |
+| d10  | RUNNING | 10.0.4.210 |      | NO        | 0         |
+| d11  | RUNNING | 10.0.4.100 |      | NO        | 0         |
+| d12  | RUNNING | 10.0.4.199 |      | NO        | 0         |
+| d13  | RUNNING | 10.0.4.226 |      | NO        | 0         |
+| d14  | RUNNING | 10.0.4.93  |      | NO        | 0         |
+| d15  | RUNNING | 10.0.4.38  |      | NO        | 0         |
+| d16  | RUNNING | 10.0.4.161 |      | NO        | 0         |
+| d17  | RUNNING | 10.0.4.205 |      | NO        | 0         |
+| d18  | RUNNING | 10.0.4.39  |      | NO        | 0         |
+| d19  | RUNNING | 10.0.4.106 |      | NO        | 0         |
+| d2   | RUNNING | 10.0.4.163 |      | NO        | 0         |
+| d20  | RUNNING | 10.0.4.250 |      | NO        | 0         |
+| d21  | RUNNING | 10.0.4.184 |      | NO        | 0         |
+| d22  | RUNNING | 10.0.4.107 |      | NO        | 0         |
+| d23  | RUNNING | 10.0.4.189 |      | NO        | 0         |
+| d24  | RUNNING | 10.0.4.96  |      | NO        | 0         |
+| d25  | RUNNING | 10.0.4.228 |      | NO        | 0         |
+| d26  | RUNNING | 10.0.4.206 |      | NO        | 0         |
+| d27  | RUNNING | 10.0.4.13  |      | NO        | 0         |
+| d28  | RUNNING | 10.0.4.227 |      | NO        | 0         |
+| d29  | RUNNING | 10.0.4.95  |      | NO        | 0         |
+| d3   | RUNNING | 10.0.4.164 |      | NO        | 0         |
+| d30  | RUNNING | 10.0.4.153 |      | NO        | 0         |
+| d31  | RUNNING | 10.0.4.243 |      | NO        | 0         |
+| d32  | RUNNING | 10.0.4.66  |      | NO        | 0         |
+| d33  | RUNNING | 10.0.4.122 |      | NO        | 0         |
+| d34  | RUNNING | 10.0.4.20  |      | NO        | 0         |
+| d35  | RUNNING | 10.0.4.248 |      | NO        | 0         |
+| d36  | RUNNING | 10.0.4.127 |      | NO        | 0         |
+| d37  | RUNNING | 10.0.4.196 |      | NO        | 0         |
+| d38  | RUNNING | 10.0.4.7   |      | NO        | 0         |
+| d39  | RUNNING | 10.0.4.53  |      | NO        | 0         |
+| d4   | RUNNING | 10.0.4.200 |      | NO        | 0         |
+| d40  | RUNNING | 10.0.4.209 |      | NO        | 0         |
+| d43  | RUNNING | 10.0.4.238 |      | NO        | 0         |
+| d5   | RUNNING | 10.0.4.165 |      | NO        | 0         |
+| d6   | RUNNING | 10.0.4.108 |      | NO        | 0         |
+| d7   | RUNNING | 10.0.4.62  |      | NO        | 0         |
+| d8   | RUNNING | 10.0.4.249 |      | NO        | 0         |
+| d9   | RUNNING | 10.0.4.61  |      | NO        | 0         |
++------+---------+------------+------+-----------+-----------+
+jupiter164
+RUNNING: 41
+STOPPED: 0
++------+---------+------------+------+-----------+-----------+
+| NAME |  STATE  |    IPV4    | IPV6 | EPHEMERAL | SNAPSHOTS |
++------+---------+------------+------+-----------+-----------+
+| d1   | RUNNING | 10.0.4.93  |      | NO        | 0         |
+| d10  | RUNNING | 10.0.4.156 |      | NO        | 0         |
+| d11  | RUNNING | 10.0.4.134 |      | NO        | 0         |
+| d12  | RUNNING | 10.0.4.77  |      | NO        | 0         |
+| d13  | RUNNING | 10.0.4.5   |      | NO        | 0         |
+| d14  | RUNNING | 10.0.4.218 |      | NO        | 0         |
+| d15  | RUNNING | 10.0.4.189 |      | NO        | 0         |
+| d16  | RUNNING | 10.0.4.99  |      | NO        | 0         |
+| d17  | RUNNING | 10.0.4.41  |      | NO        | 0         |
+| d18  | RUNNING | 10.0.4.133 |      | NO        | 0         |
+| d19  | RUNNING | 10.0.4.12  |      | NO        | 0         |
+| d2   | RUNNING | 10.0.4.254 |      | NO        | 0         |
+| d20  | RUNNING | 10.0.4.19  |      | NO        | 0         |
+| d21  | RUNNING | 10.0.4.21  |      | NO        | 0         |
+| d22  | RUNNING | 10.0.4.37  |      | NO        | 0         |
+| d23  | RUNNING | 10.0.4.109 |      | NO        | 0         |
+| d24  | RUNNING | 10.0.4.128 |      | NO        | 0         |
+| d25  | RUNNING | 10.0.4.132 |      | NO        | 0         |
+| d26  | RUNNING | 10.0.4.182 |      | NO        | 0         |
+| d27  | RUNNING | 10.0.4.110 |      | NO        | 0         |
+| d28  | RUNNING | 10.0.4.16  |      | NO        | 0         |
+| d29  | RUNNING | 10.0.4.90  |      | NO        | 0         |
+| d3   | RUNNING | 10.0.4.105 |      | NO        | 0         |
+| d30  | RUNNING | 10.0.4.163 |      | NO        | 0         |
+| d31  | RUNNING | 10.0.4.34  |      | NO        | 0         |
+| d32  | RUNNING | 10.0.4.111 |      | NO        | 0         |
+| d33  | RUNNING | 10.0.4.78  |      | NO        | 0         |
+| d34  | RUNNING | 10.0.4.11  |      | NO        | 0         |
+| d35  | RUNNING | 10.0.4.152 |      | NO        | 0         |
+| d36  | RUNNING | 10.0.4.33  |      | NO        | 0         |
+| d37  | RUNNING | 10.0.4.252 |      | NO        | 0         |
+| d38  | RUNNING | 10.0.4.3   |      | NO        | 0         |
+| d39  | RUNNING | 10.0.4.95  |      | NO        | 0         |
+| d4   | RUNNING | 10.0.4.158 |      | NO        | 0         |
+| d40  | RUNNING | 10.0.4.80  |      | NO        | 0         |
+| d5   | RUNNING | 10.0.4.237 |      | NO        | 0         |
+| d6   | RUNNING | 10.0.4.216 |      | NO        | 0         |
+| d7   | RUNNING | 10.0.4.55  |      | NO        | 0         |
+| d8   | RUNNING | 10.0.4.233 |      | NO        | 0         |
+| d9   | RUNNING | 10.0.4.198 |      | NO        | 0         |
++------+---------+------------+------+-----------+-----------+
+jupiter165
+RUNNING: 40
+STOPPED: 0
++------+---------+------------+------+-----------+-----------+
+| NAME |  STATE  |    IPV4    | IPV6 | EPHEMERAL | SNAPSHOTS |
++------+---------+------------+------+-----------+-----------+
+| d1   | RUNNING | 10.0.4.35  |      | NO        | 0         |
+| d10  | RUNNING | 10.0.4.25  |      | NO        | 0         |
+| d11  | RUNNING | 10.0.4.227 |      | NO        | 0         |
+| d12  | RUNNING | 10.0.4.164 |      | NO        | 0         |
+| d13  | RUNNING | 10.0.4.137 |      | NO        | 0         |
+| d14  | RUNNING | 10.0.4.69  |      | NO        | 0         |
+| d15  | RUNNING | 10.0.4.85  |      | NO        | 0         |
+| d16  | RUNNING | 10.0.4.216 |      | NO        | 0         |
+| d17  | RUNNING | 10.0.4.6   |      | NO        | 0         |
+| d18  | RUNNING | 10.0.4.16  |      | NO        | 0         |
+| d19  | RUNNING | 10.0.4.131 |      | NO        | 0         |
+| d2   | RUNNING | 10.0.4.148 |      | NO        | 0         |
+| d20  | RUNNING | 10.0.4.234 |      | NO        | 0         |
+| d21  | RUNNING | 10.0.4.56  |      | NO        | 0         |
+| d22  | RUNNING | 10.0.4.34  |      | NO        | 0         |
+| d23  | RUNNING | 10.0.4.211 |      | NO        | 0         |
+| d24  | RUNNING | 10.0.4.198 |      | NO        | 0         |
+| d25  | RUNNING | 10.0.4.65  |      | NO        | 0         |
+| d26  | RUNNING | 10.0.4.55  |      | NO        | 0         |
+| d27  | RUNNING | 10.0.4.3   |      | NO        | 0         |
+| d28  | RUNNING | 10.0.4.120 |      | NO        | 0         |
+| d29  | RUNNING | 10.0.4.90  |      | NO        | 0         |
+| d3   | RUNNING | 10.0.4.21  |      | NO        | 0         |
+| d30  | RUNNING | 10.0.4.199 |      | NO        | 0         |
+| d31  | RUNNING | 10.0.4.181 |      | NO        | 0         |
+| d32  | RUNNING | 10.0.4.185 |      | NO        | 0         |
+| d33  | RUNNING | 10.0.4.4   |      | NO        | 0         |
+| d34  | RUNNING | 10.0.4.171 |      | NO        | 0         |
+| d35  | RUNNING | 10.0.4.12  |      | NO        | 0         |
+| d36  | RUNNING | 10.0.4.17  |      | NO        | 0         |
+| d37  | RUNNING | 10.0.4.124 |      | NO        | 0         |
+| d38  | RUNNING | 10.0.4.138 |      | NO        | 0         |
+| d39  | RUNNING | 10.0.4.146 |      | NO        | 0         |
+| d4   | RUNNING | 10.0.4.23  |      | NO        | 0         |
+| d40  | RUNNING | 10.0.4.92  |      | NO        | 0         |
+| d43  | RUNNING | 10.0.4.169 |      | NO        | 0         |
+| d5   | RUNNING | 10.0.4.15  |      | NO        | 0         |
+| d6   | RUNNING | 10.0.4.170 |      | NO        | 0         |
+| d7   | RUNNING | 10.0.4.245 |      | NO        | 0         |
+| d8   | RUNNING | 10.0.4.228 |      | NO        | 0         |
+| d9   | RUNNING | 10.0.4.253 |      | NO        | 0         |
++------+---------+------------+------+-----------+-----------+
+jupiter166
+RUNNING: 41
+STOPPED: 0
++------+---------+------------+------+-----------+-----------+
+| NAME |  STATE  |    IPV4    | IPV6 | EPHEMERAL | SNAPSHOTS |
++------+---------+------------+------+-----------+-----------+
+| d1   | RUNNING | 10.0.4.111 |      | NO        | 0         |
+| d10  | RUNNING | 10.0.4.53  |      | NO        | 0         |
+| d11  | RUNNING | 10.0.4.252 |      | NO        | 0         |
+| d12  | RUNNING | 10.0.4.76  |      | NO        | 0         |
+| d13  | RUNNING | 10.0.4.70  |      | NO        | 0         |
+| d14  | RUNNING | 10.0.4.112 |      | NO        | 0         |
+| d15  | RUNNING | 10.0.4.218 |      | NO        | 0         |
+| d16  | RUNNING | 10.0.4.11  |      | NO        | 0         |
+| d17  | RUNNING | 10.0.4.79  |      | NO        | 0         |
+| d18  | RUNNING | 10.0.4.2   |      | NO        | 0         |
+| d19  | RUNNING | 10.0.4.49  |      | NO        | 0         |
+| d2   | RUNNING | 10.0.4.197 |      | NO        | 0         |
+| d20  | RUNNING | 10.0.4.193 |      | NO        | 0         |
+| d21  | RUNNING | 10.0.4.186 |      | NO        | 0         |
+| d22  | RUNNING | 10.0.4.3   |      | NO        | 0         |
+| d23  | RUNNING | 10.0.4.253 |      | NO        | 0         |
+| d24  | RUNNING | 10.0.4.172 |      | NO        | 0         |
+| d25  | RUNNING | 10.0.4.250 |      | NO        | 0         |
+| d26  | RUNNING | 10.0.4.184 |      | NO        | 0         |
+| d27  | RUNNING | 10.0.4.31  |      | NO        | 0         |
+| d28  | RUNNING | 10.0.4.4   |      | NO        | 0         |
+| d29  | RUNNING | 10.0.4.33  |      | NO        | 0         |
+| d3   | RUNNING | 10.0.4.125 |      | NO        | 0         |
+| d30  | RUNNING | 10.0.4.203 |      | NO        | 0         |
+| d31  | RUNNING | 10.0.4.210 |      | NO        | 0         |
+| d32  | RUNNING | 10.0.4.211 |      | NO        | 0         |
+| d33  | RUNNING | 10.0.4.80  |      | NO        | 0         |
+| d34  | RUNNING | 10.0.4.100 |      | NO        | 0         |
+| d35  | RUNNING | 10.0.4.221 |      | NO        | 0         |
+| d36  | RUNNING | 10.0.4.135 |      | NO        | 0         |
+| d37  | RUNNING | 10.0.4.86  |      | NO        | 0         |
+| d38  | RUNNING | 10.0.4.41  |      | NO        | 0         |
+| d39  | RUNNING | 10.0.4.122 |      | NO        | 0         |
+| d4   | RUNNING | 10.0.4.32  |      | NO        | 0         |
+| d40  | RUNNING | 10.0.4.63  |      | NO        | 0         |
+| d44  | RUNNING | 10.0.4.23  |      | NO        | 0         |
+| d5   | RUNNING | 10.0.4.254 |      | NO        | 0         |
+| d6   | RUNNING | 10.0.4.8   |      | NO        | 0         |
+| d7   | RUNNING | 10.0.4.128 |      | NO        | 0         |
+| d8   | RUNNING | 10.0.4.106 |      | NO        | 0         |
+| d9   | RUNNING | 10.0.4.98  |      | NO        | 0         |
++------+---------+------------+------+-----------+-----------+
+jupiter167
+RUNNING: 41
+STOPPED: 0

@@ -1,0 +1,6 @@
+Error response from daemon: 409 Conflict: Conflict, You cannot remove a running container. Stop the container before attempting removal or use -f
+Error: failed to remove containers: [some-nginx-471]
+
+real	0m0.044s
+user	0m0.032s
+sys	0m0.004s

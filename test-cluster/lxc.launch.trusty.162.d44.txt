@@ -1,0 +1,5 @@
+error: exit status 2
+
+real	16m31.794s
+user	0m0.124s
+sys	0m0.028s

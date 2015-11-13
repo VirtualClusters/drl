@@ -1,0 +1,5 @@
+Error creating units: failed creating unit nginx-aw@1.service: googleapi: got HTTP response code 500 with body: {"error":{"code":500,"message":""}}
+
+real	0m1.027s
+user	0m0.000s
+sys	0m0.004s

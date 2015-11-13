@@ -1,0 +1,6 @@
+Error response from daemon: No such container: some-nginx-457
+Error: failed to stop containers: [some-nginx-457]
+
+real	0m0.042s
+user	0m0.020s
+sys	0m0.012s

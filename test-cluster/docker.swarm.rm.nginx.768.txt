@@ -1,0 +1,6 @@
+Error response from daemon: Container some-nginx-768 not found
+Error: failed to remove containers: [some-nginx-768]
+
+real	0m0.039s
+user	0m0.032s
+sys	0m0.000s

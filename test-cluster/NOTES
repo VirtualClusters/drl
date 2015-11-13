@@ -1,0 +1,103 @@
+# dswarm-1,3,10 were problematic to stop or rm
+66fc29f7e5bb        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 52 minutes ago                               dswarm-3/some-nginx-1024
+d5e85c11bf19        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 29 seconds ago                               dswarm-1/some-nginx-1014
+e2a8de320f6a        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 52 minutes ago                               dswarm-3/some-nginx-1010
+8c79be98b471        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 52 minutes ago                               dswarm-3/some-nginx-1009
+8fd1ad6d5bbf        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 52 minutes ago                               dswarm-3/some-nginx-993
+1be74b022b6b        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 53 minutes ago                               dswarm-3/some-nginx-984
+ca9e1ffd9fa9        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 53 minutes ago                               dswarm-3/some-nginx-974
+e0bcc2736f8d        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 53 minutes ago                               dswarm-3/some-nginx-968
+44519787c17a        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 53 minutes ago                               dswarm-3/some-nginx-952
+7ff765a58bb2        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 53 minutes ago                               dswarm-3/some-nginx-948
+cff254ffa42d        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 53 minutes ago                               dswarm-3/some-nginx-936
+f90863d96ae8        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 53 minutes ago                               dswarm-3/some-nginx-925
+c175c0da40a2        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 53 minutes ago                               dswarm-3/some-nginx-917
+6a41b222f496        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 53 minutes ago                               dswarm-3/some-nginx-906
+cdf9b314e4e1        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 53 minutes ago                               dswarm-3/some-nginx-896
+28b5538d7a15        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 53 minutes ago                               dswarm-3/some-nginx-889
+c5321930ad6e        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 53 minutes ago                               dswarm-3/some-nginx-870
+0ec108fd0576        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 53 minutes ago                               dswarm-3/some-nginx-864
+4c5d87c77b66        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 29 seconds ago                               dswarm-1/some-nginx-857
+d86627b4e468        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 53 minutes ago                               dswarm-3/some-nginx-855
+56da88b37db4        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 53 minutes ago                               dswarm-3/some-nginx-848
+c5714a122cc2        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 29 seconds ago                               dswarm-1/some-nginx-847
+72eb0a8974b0        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 54 minutes ago                               dswarm-3/some-nginx-839
+e06ba3b7ed1f        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 28 seconds ago                               dswarm-1/some-nginx-838
+13698c00bbff        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 28 seconds ago                               dswarm-1/some-nginx-826
+56459a2a16dd        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 54 minutes ago                               dswarm-3/some-nginx-823
+fd8976195072        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 54 minutes ago                               dswarm-3/some-nginx-811
+f7358f3019ce        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 54 minutes ago                               dswarm-3/some-nginx-800
+56c2fcd7eb04        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 54 minutes ago                               dswarm-3/some-nginx-797
+9d10d50030a4        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 54 minutes ago                               dswarm-3/some-nginx-786
+a15bd640ed23        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 54 minutes ago                               dswarm-3/some-nginx-776
+051c269d0d31        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 54 minutes ago                               dswarm-3/some-nginx-768
+b38e5597fc89        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 54 minutes ago                               dswarm-3/some-nginx-758
+29db2ff9cfe1        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 54 minutes ago                               dswarm-3/some-nginx-746
+f2e00351a997        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 54 minutes ago                               dswarm-3/some-nginx-736
+5dcf4afc4e6a        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 54 minutes ago                               dswarm-3/some-nginx-727
+4d727b234377        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 54 minutes ago                               dswarm-3/some-nginx-719
+2f84d98abc45        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 54 minutes ago                               dswarm-3/some-nginx-700
+b5c723f78d46        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 55 minutes ago                               dswarm-3/some-nginx-697
+c4f40d006c17        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 55 minutes ago                               dswarm-3/some-nginx-688
+b1aead15af3a        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 55 minutes ago                               dswarm-3/some-nginx-678
+6a406669f71c        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 55 minutes ago                               dswarm-3/some-nginx-665
+add7dd3170f7        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 28 seconds ago                               dswarm-10/some-nginx-582
+a4a98fa26086        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 27 seconds ago                               dswarm-10/some-nginx-578
+487ba43e9810        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 27 seconds ago                               dswarm-10/some-nginx-561
+2a061f1bace9        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 27 seconds ago                               dswarm-10/some-nginx-559
+4c3b454b33a6        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 26 seconds ago                               dswarm-10/some-nginx-545
+4d760f43e1c8        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 26 seconds ago                               dswarm-10/some-nginx-530
+38a0fe3231eb        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 26 seconds ago                               dswarm-10/some-nginx-525
+6b6894593196        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 25 seconds ago                               dswarm-10/some-nginx-510
+892fc7acb7f6        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 25 seconds ago                               dswarm-10/some-nginx-505
+3fbfce9b3dfc        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 24 seconds ago                               dswarm-10/some-nginx-492
+378804e3e613        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 24 seconds ago                               dswarm-10/some-nginx-483
+f3aa9c5461ba        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 24 seconds ago                               dswarm-10/some-nginx-471
+7889c29a726d        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 23 seconds ago                               dswarm-10/some-nginx-465
+091c2a20f5e0        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 23 seconds ago                               dswarm-10/some-nginx-457
+b90766e7f87b        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 23 seconds ago                               dswarm-10/some-nginx-445
+b26160792052        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 22 seconds ago                               dswarm-10/some-nginx-432
+e0f624797cb0        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 22 seconds ago                               dswarm-10/some-nginx-420
+409b3d25ec37        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 22 seconds ago                               dswarm-10/some-nginx-410
+59dc57626883        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 21 seconds ago                               dswarm-10/some-nginx-400
+5a3490c84afa        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 21 seconds ago                               dswarm-10/some-nginx-390
+f019868ef943        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 21 seconds ago                               dswarm-10/some-nginx-385
+7bca7debe7c5        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 20 seconds ago                               dswarm-10/some-nginx-379
+135a4b755ba7        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 20 seconds ago                               dswarm-10/some-nginx-360
+17a5d984feee        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 20 seconds ago                               dswarm-10/some-nginx-351
+035ce5a83b08        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 19 seconds ago                               dswarm-10/some-nginx-340
+ad94a5934ff7        nginx               "nginx -g 'daemon off"   About an hour ago   Exited (0) 19 seconds ago                               dswarm-10/some-nginx-339
+
+# running
+d5e85c11bf19        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-1/some-nginx-1014
+4c5d87c77b66        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-1/some-nginx-857
+c5714a122cc2        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-1/some-nginx-847
+e06ba3b7ed1f        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-1/some-nginx-838
+13698c00bbff        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-1/some-nginx-826
+add7dd3170f7        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-10/some-nginx-582
+a4a98fa26086        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-10/some-nginx-578
+487ba43e9810        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-10/some-nginx-561
+2a061f1bace9        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-10/some-nginx-559
+4c3b454b33a6        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-10/some-nginx-545
+4d760f43e1c8        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-10/some-nginx-530
+38a0fe3231eb        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-10/some-nginx-525
+6b6894593196        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-10/some-nginx-510
+892fc7acb7f6        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-10/some-nginx-505
+3fbfce9b3dfc        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-10/some-nginx-492
+378804e3e613        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-10/some-nginx-483
+f3aa9c5461ba        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-10/some-nginx-471
+7889c29a726d        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-10/some-nginx-465
+091c2a20f5e0        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-10/some-nginx-457
+b90766e7f87b        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-10/some-nginx-445
+b26160792052        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-10/some-nginx-432
+e0f624797cb0        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-10/some-nginx-420
+409b3d25ec37        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-10/some-nginx-410
+59dc57626883        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-10/some-nginx-400
+5a3490c84afa        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-10/some-nginx-390
+f019868ef943        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-10/some-nginx-385
+7bca7debe7c5        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-10/some-nginx-379
+135a4b755ba7        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-10/some-nginx-360
+17a5d984feee        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-10/some-nginx-351
+035ce5a83b08        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-10/some-nginx-340
+ad94a5934ff7        nginx               "nginx -g 'daemon off"   About an hour ago   Up About an hour            80/tcp, 443/tcp             dswarm-10/some-nginx-339
+

@@ -1,0 +1,6 @@
+Error response from daemon: No such container: some-nginx-857
+Error: failed to stop containers: [some-nginx-857]
+
+real	0m0.043s
+user	0m0.032s
+sys	0m0.000s

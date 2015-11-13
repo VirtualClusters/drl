@@ -1,0 +1,6 @@
+Error response from daemon: No such container: some-nginx-400
+Error: failed to stop containers: [some-nginx-400]
+
+real	0m0.058s
+user	0m0.032s
+sys	0m0.012s

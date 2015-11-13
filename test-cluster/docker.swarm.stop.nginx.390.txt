@@ -1,0 +1,6 @@
+Error response from daemon: No such container: some-nginx-390
+Error: failed to stop containers: [some-nginx-390]
+
+real	0m0.053s
+user	0m0.036s
+sys	0m0.004s

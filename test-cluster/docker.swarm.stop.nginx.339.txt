@@ -1,0 +1,6 @@
+Error response from daemon: No such container: some-nginx-339
+Error: failed to stop containers: [some-nginx-339]
+
+real	0m0.046s
+user	0m0.024s
+sys	0m0.012s

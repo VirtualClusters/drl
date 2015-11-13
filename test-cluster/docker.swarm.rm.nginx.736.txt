@@ -1,0 +1,6 @@
+Error response from daemon: Container some-nginx-736 not found
+Error: failed to remove containers: [some-nginx-736]
+
+real	0m0.047s
+user	0m0.032s
+sys	0m0.004s
