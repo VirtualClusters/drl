@@ -4,6 +4,13 @@ app="nginx"
 commands="docker pull run stop rm rmi"
 cnt=0
 
+app="ubuntu"
+commands="lxc launch delete"
+
+app="nginx"
+commands="rkt start stop"
+
+
 for cmd in $commands
 do
 	if [ $cnt -eq 0 ]
