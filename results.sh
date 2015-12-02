@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# SINGLE MACHINE
 app="nginx"
 commands="docker pull run stop rm rmi"
 cnt=0
@@ -10,6 +11,12 @@ commands="lxc launch delete"
 app="nginx"
 commands="rkt start stop"
 
+# CLUSTER
+BASE_DIR="test-cluster"
+app="nginx"
+fs=".overlay"
+cluster=".swarm"
+commands="docker$cluster$fs run stop rm"
 
 for cmd in $commands
 do
@@ -22,7 +29,7 @@ do
 	for i in `seq 1 1024`
 	do
 		#echo grep real $prg.$cmd.$app.$i.txt
-		RES=`grep real $prg.$cmd.$app.$i.txt|cut -f2`
+		RES=`grep real $BASE_DIR/$prg.$cmd.$app.$i.txt|cut -f2`
 		if [ "$RES" == "" ]
 		then
 			echo ===============================
