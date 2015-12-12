@@ -16,5 +16,5 @@ do
 		done
 		TMP2=$TMP2`echo "[$TMP],"`
 	done
- 	echo "[$TMP2]" > $k.$app.result.csv
+ 	echo "[$TMP2]" > $k.$app.web.csv
 done
